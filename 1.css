@@ -1,0 +1,80 @@
+.h1{
+    color: blue;
+    text-align-last: center;
+}
+.one{
+    background: #00ffff;
+    border: 4px solid black;
+    
+}
+.one-1{
+    color: rgb(204, 13, 102);
+    
+}
+.one-2{
+    background-color: yellow;
+}
+/**Ankek*/
+.two{
+    background-color: blueviolet;
+    border: 4px solid greenyellow;
+}
+.two-1{
+    color: violet;
+    text-align: center;
+}
+.two-2{
+    color:crimson;
+}
+/*heading*/
+.three{
+    background-color: turquoise;
+    border: 4px solid black;
+}
+.four{
+    background-color: tomato;
+    border: 2px solid blue;
+}
+.five{
+    background-color: tan;
+    border: 2px solid tomato;
+}
+.six{
+    background-color: #00f567;
+    border:2px dashed blueviolet;
+}
+.six-2{
+    color: rgb(214, 22, 4);
+    text-align: center;
+    text-decoration: underline;
+}
+.seven{
+    background-color:hotpink;
+    border:2px dashed darkslateblue;
+    color: maroon;
+}
+.seven-1{
+    color: #00f567;
+}
+.eight{
+    background-color: aquamarine;
+    border: 7px dashed darkblue;
+    color: green;
+    text-align: initial;
+}
+.nine{
+    background-color: #00ffff;
+    border: 3px dotted darkred;
+    display: border-box;
+    text-decoration: underline;
+}
+.eleven{
+    background-color: #00f567;
+}
+.ele-1{
+    background-color: #000fff;
+    color: #ff0000;
+}
+.form{
+    text-align:center;
+}
